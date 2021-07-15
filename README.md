@@ -7,3 +7,12 @@ This tool is written so that you do not enter your username and password to inva
 
 ![WhatsApp Image 2021-07-15 at 7 38 02 PM](https://user-images.githubusercontent.com/87072183/125811588-2a3accce-b4a3-4034-b438-2702301dca0e.jpeg)
 
+
+
+install in linux:
+git clone https://github.com/ariiann/instagram-profile-downloader
+cd instagram-profile-downloader 
+pip3 install -r requirements.txt
+python3 insta-profile-downloader.py
+
+
