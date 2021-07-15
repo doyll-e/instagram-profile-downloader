@@ -10,9 +10,17 @@ This tool is written so that you do not enter your username and password to inva
 
 
 install in linux:
+
+
 git clone https://github.com/ariiann/instagram-profile-downloader
+
+
 cd instagram-profile-downloader 
+
+
 pip3 install -r requirements.txt
+
+
 python3 insta-profile-downloader.py
 
 
