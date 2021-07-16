@@ -9,6 +9,19 @@ This tool is written so that you do not enter your username and password to inva
 
 
 
+
+operating system tested:
+*Windows 10
+*kali linux
+*Ubuntu 19.10
+
+
+
+
+
+
+
+
 install in linux:
 
 
