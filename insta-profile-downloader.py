@@ -1,6 +1,6 @@
 # import required modules
 import instaloader
-from PIL import Image, ImageTk
+from PIL import *
 import os,time,sys,platform
 from colorama import Fore,init
 init()
