@@ -10,28 +10,25 @@ This tool is written so that you do not enter your username and password to inva
 
 
 
-operating system tested:
-
-*Windows 10
-
-*kali linux
-
-*Ubuntu 19.10
-
+ #### Operating Systems Tested
+        
+- Windows 10
+- Windows 8.1
+- Linux 
+- Kali Linux
 
 
 
 
+  ## Install
+  
+```bash
+git clone https://github.com/ariiann/s-bomb
+cd s-bomb
+pip3 install -r requirements.txt
+Run =>python3 s-bomb.py
+```
 
-
-
-install in linux:
-
-
-git clone https://github.com/ariiann/instagram-profile-downloader
-
-
-cd instagram-profile-downloader 
 
 
 pip3 install -r requirements.txt
