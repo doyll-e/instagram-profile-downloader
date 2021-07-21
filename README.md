@@ -28,12 +28,3 @@ cd s-bomb
 pip3 install -r requirements.txt
 Run =>python3 s-bomb.py
 ```
-
-
-
-pip3 install -r requirements.txt
-
-
-python3 insta-profile-downloader.py
-
-
