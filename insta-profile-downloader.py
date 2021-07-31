@@ -73,7 +73,7 @@ def liststart():
 
 def devloper():
     try:
-        print(Fore.CYAN+"  ["+Fore.LIGHTCYAN_EX+"1"+Fore.CYAN+"]  "+Fore.RED+" instagram : "+Fore.LIGHTCYAN_EX+"@arii.iann")
+        print(Fore.CYAN+"  ["+Fore.LIGHTCYAN_EX+"1"+Fore.CYAN+"]  "+Fore.RED+" instagram : "+Fore.LIGHTCYAN_EX+"@doyll_e")
         time.sleep(0.1)
         print(Fore.CYAN+"  ["+Fore.LIGHTCYAN_EX+"1"+Fore.CYAN+"]  "+Fore.RED+" github : "+Fore.LIGHTCYAN_EX+"https://github.com/ariian")
         time.sleep(0.1)
