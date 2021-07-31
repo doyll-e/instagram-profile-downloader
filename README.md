@@ -23,7 +23,7 @@ This tool is written so that you do not enter your username and password to inva
   ## Install
   
 ```bash
-git clone https://github.com/ariiann/instagram-profile-downloader
+https://github.com/d0yle/instagram-profile-downloader
 cd s-bomb
 pip3 install -r requirements.txt
 Run =>python3 s-bomb.py
